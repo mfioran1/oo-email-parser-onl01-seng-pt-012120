@@ -10,6 +10,6 @@ class EmailAddressParser
     @emails = email
   end
   
-  
+ end 
 
   
